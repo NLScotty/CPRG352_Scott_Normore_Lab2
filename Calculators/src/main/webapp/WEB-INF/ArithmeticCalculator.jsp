@@ -19,6 +19,6 @@
             <button type="submit" name="operation" value="divide">%</button>
         </form>
         <p>Result: ${message}</p>
-        <a href="http://localhost:8080/Calculators/age">Age Calculator</a>
+        <a href="age">Age Calculator</a>
     </body>
 </html>

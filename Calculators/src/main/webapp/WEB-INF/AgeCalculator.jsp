@@ -13,6 +13,6 @@
             <button type="submit">Submit</button>
         </form>
         <p>${message}</p>
-        <a href="http://localhost:8080/Calculators/arithmetic">Arithmetic Calculator</a>
+        <a href="arithmetic">Arithmetic Calculator</a>
     </body>
 </html>
